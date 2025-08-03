@@ -75,7 +75,7 @@ body {
 }
 
 .cart-link:hover {
-  background: linear-gradient(135deg, #ee5a24, #ff6b6b) !important;
+  background: red !important;
 }
 
 /* Main Content */
@@ -88,7 +88,7 @@ body {
 /* Hero Section */
 .hero-section {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
   color: white;
 }
 
@@ -99,7 +99,7 @@ body {
 }
 
 .hero-section p {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   opacity: 0.9;
 }
 
