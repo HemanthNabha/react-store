@@ -16,7 +16,7 @@ const products = [
   { id: 9, name: "Monitor", price: 299.99, image: "https://picsum.photos/id/60/200/300" },
   { id: 10, name: "Webcam", price: 69.99, image: "https://picsum.photos/id/3/200/300" },
   { id: 11, name: "Power Bank", price: 34.99, image: "https://picsum.photos/id/4/200/300" },
-  { id: 12, name: "Tablet", price: 399.99, image: "https://picsum.photos/id/39/200/300" },
+  { id: 12, name: "Tablet", price: 399.99, image: "https://picsum.photos/id/55/200/300" },
 ]
 
 // Navigation Component
