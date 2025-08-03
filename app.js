@@ -5,18 +5,18 @@ import "./App.css"
 
 // Sample product data
 const products = [
-  { id: 1, name: "Wireless Headphones", price: 99.99, image: "/placeholder.svg?height=200&width=200&text=Headphones" },
-  { id: 2, name: "Smart Watch", price: 199.99, image: "/placeholder.svg?height=200&width=200&text=Smart+Watch" },
-  { id: 3, name: "Laptop Stand", price: 49.99, image: "/placeholder.svg?height=200&width=200&text=Laptop+Stand" },
-  { id: 4, name: "USB-C Cable", price: 19.99, image: "/placeholder.svg?height=200&width=200&text=USB+Cable" },
-  { id: 5, name: "Bluetooth Speaker", price: 79.99, image: "/placeholder.svg?height=200&width=200&text=Speaker" },
-  { id: 6, name: "Phone Case", price: 24.99, image: "/placeholder.svg?height=200&width=200&text=Phone+Case" },
-  { id: 7, name: "Wireless Mouse", price: 39.99, image: "/placeholder.svg?height=200&width=200&text=Mouse" },
-  { id: 8, name: "Keyboard", price: 89.99, image: "/placeholder.svg?height=200&width=200&text=Keyboard" },
-  { id: 9, name: "Monitor", price: 299.99, image: "/placeholder.svg?height=200&width=200&text=Monitor" },
-  { id: 10, name: "Webcam", price: 69.99, image: "/placeholder.svg?height=200&width=200&text=Webcam" },
-  { id: 11, name: "Power Bank", price: 34.99, image: "/placeholder.svg?height=200&width=200&text=Power+Bank" },
-  { id: 12, name: "Tablet", price: 399.99, image: "/placeholder.svg?height=200&width=200&text=Tablet" },
+  { id: 1, name: "Wireless Headphones", price: 99.99, image: "https://picsum.photos/seed/picsum/200/300" },
+  { id: 2, name: "Smart Watch", price: 199.99, image: "https://picsum.photos/id/160/200/300" },
+  { id: 3, name: "Laptop Stand", price: 49.99, image: "https://picsum.photos/id/48/200/300" },
+  { id: 4, name: "USB-C Cable", price: 19.99, image: "https://picsum.photos/id/96/200/300" },
+  { id: 5, name: "Bluetooth Speaker", price: 79.99, image: "https://picsum.photos/id/175/200/300" },
+  { id: 6, name: "Phone Case", price: 24.99, image: "https://picsum.photos/id/9/200/300" },
+  { id: 7, name: "Wireless Mouse", price: 39.99, image: "https://picsum.photos/id/180/200/300" },
+  { id: 8, name: "Keyboard", price: 89.99, image: "https://picsum.photos/id/7/200/300" },
+  { id: 9, name: "Monitor", price: 299.99, image: "https://picsum.photos/id/60/200/300" },
+  { id: 10, name: "Webcam", price: 69.99, image: "https://picsum.photos/id/3/200/300" },
+  { id: 11, name: "Power Bank", price: 34.99, image: "https://picsum.photos/id/4/200/300" },
+  { id: 12, name: "Tablet", price: 399.99, image: "https://picsum.photos/id/39/200/300" },
 ]
 
 // Navigation Component
