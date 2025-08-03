@@ -69,7 +69,7 @@ body {
 }
 
 .cart-link {
-  background: linear-gradient(135deg, #ff6b6b, #ee5a24) !important;
+  background: red !important;
   color: white !important;
   font-weight: bold;
 }
@@ -99,7 +99,7 @@ body {
 }
 
 .hero-section p {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   opacity: 0.9;
 }
 
